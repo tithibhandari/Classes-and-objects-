@@ -64,10 +64,8 @@ int main()
 	return 0;
 }
 
-    Pricing
-    API
-    Training
-    Blog
-    About
+    
+    
+ 
 
 
